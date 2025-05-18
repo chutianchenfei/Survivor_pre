@@ -1,32 +1,5 @@
 {
     "ModSettings": {
         "first_run": false
-    },
-    "GuiSettings": {
-        "enable_profiles_ui": {
-            "value": false
-        },
-        "enable_profiles_announcement": false
-    },
-    "LockedSlotsSettings": {
-        "show_locked_slots_background": {
-            "value": false
-        },
-        "show_locked_slots_foreground": {
-            "value": false
-        }
-    },
-    "AutoRefillSettings": {
-        "auto_refill_enable_indicator_icons": {
-            "value": false
-        },
-        "auto_refill_enable_horbar_indicator_icons": {
-            "value": false
-        }
-    },
-    "Tweaks": {
-        "container_swipe_moving_items": {
-            "value": false
-        }
     }
 }

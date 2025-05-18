@@ -1,8 +1,13 @@
 {
   "allowMovement": {
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
     "com.minenash.seamless_loading_screen.FadeScreen": true,
-    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
-    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true
+    "xaero.map.gui.GuiMap": true,
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
   },
-  "hideBackground": {}
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
 }

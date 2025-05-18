@@ -255,7 +255,7 @@ _version = 3
 		showGenerationProgress = "OVERLAY"
 		#
 		# How often should the distant generator progress be displayed?
-		generationProgressDisplayIntervalInSeconds = 5
+		generationProgressDisplayIntervalInSeconds = 2
 		#
 		# For how many seconds should instructions for disabling the distant generator progress be displayed? 
 		# Setting this to 0 hides the instructional message so the world gen progress is shown immediately when it starts.
@@ -390,7 +390,7 @@ _version = 3
 				# Defines how OpenGL errors are handled. 
 				#  Requires rebooting Minecraft to change. 
 				# Will catch OpenGL errors thrown by other mods.
-				overrideVanillaGLLogger = false
+				overrideVanillaGLLogger = true
 				#
 				# Defines how OpenGL errors are handled. 
 				# May incorrectly catch OpenGL errors thrown by other mods. 

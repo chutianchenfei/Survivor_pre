@@ -1,17 +1,33 @@
 {
   "name": "Survivor_pre",
   "author": "Dullahan",
-  "version": "1.0",
+  "version": "1.1",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/chutianchenfei/Survivor_pre/refs/heads/main",
   "files": [
     {
-      "path": "config/.puzzle_cache/mojangstudios.png",
-      "hash": "dba50ab92eb72e3b1e6721ca702fb4c4c5479bdf"
+      "path": "config/AdvancedCompass/mobs/guardvillagers/guard.png",
+      "hash": "a2dbcaaf2ff0b2e505cd6f147956b566a1d19546"
+    },
+    {
+      "path": "config/AdvancedCompass/mobs/guardvillagers/mobs.json",
+      "hash": "6536b5b1b17d6d4ef8bc92e9f3580fcb56488710"
+    },
+    {
+      "path": "config/AdvancedCompass/mobs/mobs.json",
+      "hash": "1586a949f047a025ce4c957b89a114b5c6c70f1a"
+    },
+    {
+      "path": "config/advancedcompass.json",
+      "hash": "0942dbc531b1a6e501c0fdcd41901781af5e70c9"
     },
     {
       "path": "config/advancementplaques.toml",
       "hash": "c34da18bdf45fe0e19089247f5be90f6b6415de4"
+    },
+    {
+      "path": "config/advancements_reloaded.json",
+      "hash": "9938e53c1bbb9284c6e9e148825e80eca370545a"
     },
     {
       "path": "config/appleskin.json5",
@@ -19,7 +35,11 @@
     },
     {
       "path": "config/autohud.json5",
-      "hash": "0021e09121d3c27d0736a88b6453559812d73201"
+      "hash": "94749e26b75e2bb581c995621f6c1c1cec5ad7f9"
+    },
+    {
+      "path": "config/axolotlclient/accounts.json",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
       "path": "config/balm-client.toml",
@@ -70,10 +90,6 @@
       "hash": "a8157f2e1e649b891aaccb8ec83d38c84429c82a"
     },
     {
-      "path": "config/chunky/tasks/minecraft/overworld.properties",
-      "hash": "f8f7805ae87083aa02f5835d1d465c5053171296"
-    },
-    {
       "path": "config/chunkyborder/borders.json",
       "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
     },
@@ -82,20 +98,12 @@
       "hash": "665d0f520815398261190df6fb4c7d4526fce2aa"
     },
     {
-      "path": "config/citresewn-defaults.json",
-      "hash": "0cb297b69dea869c0a2479cc08141a2e4f8b370b"
-    },
-    {
       "path": "config/citresewn.json",
       "hash": "962b8fbc4f2e6dd6ae7f3c4074281276e3c332ed"
     },
     {
-      "path": "config/configurable/bettertrims.json5",
-      "hash": "1bba4cc211d172a51bca5f0959dd72cdd427bc42"
-    },
-    {
-      "path": "config/configured-client.properties",
-      "hash": "6b3f3fc1d345e56e4677030ef97328fa813c68b9"
+      "path": "config/collective.json5",
+      "hash": "dd275eba23d25c50bea5ca96f5243ec1782fc435"
     },
     {
       "path": "config/continuity.json",
@@ -106,12 +114,20 @@
       "hash": "1233bc5e9b76ae23493ad31db26e92b7da397270"
     },
     {
+      "path": "config/cristellib/minecraftED.json5",
+      "hash": "ad903b25383fecd3031d215cf420d4eca8423185"
+    },
+    {
+      "path": "config/cristellib/minecraftP.json5",
+      "hash": "dfa2d954a36b6dc938e63c8a3a0ecefd9d468033"
+    },
+    {
       "path": "config/ding.toml",
       "hash": "5ad983821024f6571bdbd0d1ce57280c9763858c"
     },
     {
       "path": "config/DistantHorizons.toml",
-      "hash": "cbe3654b20dd7a4d17acd5dee52d8c45c27994a3"
+      "hash": "0843cdaa6b81634432b2f4df895371f39ebde945"
     },
     {
       "path": "config/dsurround/dsurround.json",
@@ -123,7 +139,7 @@
     },
     {
       "path": "config/dummmmmmy-client.json",
-      "hash": "a880df8ffd99b593190b34bb576151e01f27ddca"
+      "hash": "a48738dc391bbd36fb5c71fb54c0d3d5d458f336"
     },
     {
       "path": "config/dummmmmmy-common.json",
@@ -138,12 +154,12 @@
       "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
     },
     {
-      "path": "config/elytra-trims.json",
-      "hash": "f7a492fd3bdcb9a7abe0b48e4be6586ce2c49a09"
+      "path": "config/eg_particle_interactions_config.json",
+      "hash": "912483e54ece563fbb7ba104d1b4e23c7a43172b"
     },
     {
       "path": "config/emi.css",
-      "hash": "c4c7e1708ce791f0b0746ce29627db853a0c16d3"
+      "hash": "45cf731b26c52d310914d0ab43b137457af6db97"
     },
     {
       "path": "config/emotecraft.json",
@@ -152,10 +168,6 @@
     {
       "path": "config/emotecraft_emote_map.json",
       "hash": "be63473ca7f8286a8827f2e151fff6ce4016ff4d"
-    },
-    {
-      "path": "config/enderitemod.json",
-      "hash": "0c6e15fc02ff33e9ee03fa994e2ca260af52616a"
     },
     {
       "path": "config/entityculling.json",
@@ -179,31 +191,27 @@
     },
     {
       "path": "config/euphoria_patcher.properties",
-      "hash": "5627de60ab965c55e0b3542efe470e86c45284d6"
+      "hash": "0cac6c5bc5367eb68098049f738698257b41ff27"
+    },
+    {
+      "path": "config/explorerscompass.json",
+      "hash": "35323966095cdb1bd8d482c140de43360026a8f6"
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "201f1b7dc1859abaf569a609a00438691e635973"
+      "hash": "1a0272d25400c59ea7f92cd94f1b1d3a8e0d1356"
     },
     {
       "path": "config/fabricshieldlib.json",
       "hash": "906220194ace14997158f16f6f8e576ddd78acef"
     },
     {
+      "path": "config/ferritecore.mixin.properties",
+      "hash": "69e297dba67843f367101f4efc5d27bbcda27c1e"
+    },
+    {
       "path": "config/firstperson.json",
       "hash": "53d62464761e0dc115e4aea24a9818c3fa6ecec2"
-    },
-    {
-      "path": "config/flashback/.flashback.json.backup",
-      "hash": "212f2cd21e902822695b54e04fbe21661cf869f4"
-    },
-    {
-      "path": "config/flashback/flashback.json",
-      "hash": "212f2cd21e902822695b54e04fbe21661cf869f4"
-    },
-    {
-      "path": "config/flashback/imgui.ini",
-      "hash": "4116224dd0c20037bd71961ec0fbb8082dbce18b"
     },
     {
       "path": "config/FoodEffectTooltips.json5",
@@ -214,8 +222,16 @@
       "hash": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451"
     },
     {
+      "path": "config/fzzy_config/keybinds.toml",
+      "hash": "f808afa706d9a4934612b20e1efd513416a0e8f1"
+    },
+    {
       "path": "config/guarding.json",
       "hash": "48e1524401838364000e1ea89f7164b6dd7eda79"
+    },
+    {
+      "path": "config/guardvillagers.json",
+      "hash": "e8b8c1c566973593f40f1300d1bc93f6df1a233a"
     },
     {
       "path": "config/held-item-info.json",
@@ -279,7 +295,7 @@
     },
     {
       "path": "config/imblocker.json",
-      "hash": "a46b01ff5e7bd33745b4d067ed6e56d12a481993"
+      "hash": "e3cb818f05821e7978926c288a0dc8a12d56ee6d"
     },
     {
       "path": "config/immediatelyfast.json",
@@ -290,15 +306,11 @@
       "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
     },
     {
-      "path": "config/inventoryprofilesnext/integrationHints/player-defined.json",
-      "hash": "163d954cb79f64e57aafa1bdbfd334fc9e8df8f0"
-    },
-    {
       "path": "config/inventoryprofilesnext/inventoryprofiles.json",
-      "hash": "bc08cebf114e9543f49a9d6377bfb9df6cf9ace5"
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
     },
     {
-      "path": "config/inventoryprofilesnext/新的世界/prev-villager-trading-config-v2.json",
+      "path": "config/inventoryprofilesnext/Test/villager-trading-config-v2.json",
       "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
     },
     {
@@ -319,7 +331,7 @@
     },
     {
       "path": "config/invmove/unrecognized.json",
-      "hash": "3eebb83169c7592610afd88536e672e72c44b30c"
+      "hash": "182a5c46a56669195281bb8f9abe422376c4df5d"
     },
     {
       "path": "config/invmove/vanilla.json",
@@ -339,7 +351,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "7a8c4e94098d2b867d6d2beb375be4cf80bc2f41"
+      "hash": "4118e84b41fc32fc42c814dbfd2d8fb2cbb4faf0"
     },
     {
       "path": "config/itemborders.toml",
@@ -355,7 +367,7 @@
     },
     {
       "path": "config/jade/jade.json",
-      "hash": "8ea73ab5be986b34ee05bf2dcef295f59dcde376"
+      "hash": "ae3ef97881081e510963e5d173907f9488880e13"
     },
     {
       "path": "config/jade/plugins.json",
@@ -368,14 +380,6 @@
     {
       "path": "config/jade/usernamecache.json",
       "hash": "3b76dc97598ce0ffe1d2dffac89e7c3a9a8cb736"
-    },
-    {
-      "path": "config/jecharacters-extra.json",
-      "hash": "8812d7b3e64f96b983d6aedf858796b5b79586a3"
-    },
-    {
-      "path": "config/jecharacters.json",
-      "hash": "3a6b53b80a85fd34a75b26383433a6b092ea3530"
     },
     {
       "path": "config/jei/blacklist.json",
@@ -411,27 +415,23 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "5e1fa63675a4d988dc09b617f2261a22a9efdc1a"
+      "hash": "d2c9c33dbca792f29d6836c3ef738617f0664d47"
     },
     {
       "path": "config/leavesbegone-server.toml",
       "hash": "fef45b574dbbe3c0fadd25d59cd8b6f50a37324c"
     },
     {
-      "path": "config/leavesly.json",
-      "hash": "b0dc5ddcdad776106ef31b0cb2cae9320e022d29"
-    },
-    {
       "path": "config/legendarytooltips.toml",
-      "hash": "ba242f2f38bf4a53a5c601565a19dfb72c9188aa"
+      "hash": "98746028e4aed7385c9e5ae7c9254398d1d44da3"
     },
     {
       "path": "config/lithium.properties",
       "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
     },
     {
-      "path": "config/lootbeams/config.json",
-      "hash": "e0a2bae1a27db6348ed29662ab685ea886a38576"
+      "path": "config/lmft.json",
+      "hash": "2e80e8d24b405381d6ae8d32f51c04d88fec5cc2"
     },
     {
       "path": "config/malilib.json",
@@ -451,11 +451,11 @@
     },
     {
       "path": "config/ModernUI/bootstrap.properties",
-      "hash": "cd06760617f722eac84fac9eb68536d15388f83d"
+      "hash": "1cc1598b2a7a22bd12fa69eebb119367b45a8144"
     },
     {
       "path": "config/ModernUI/client.toml",
-      "hash": "ad8c28a73262816511677e90e229d5bd4904c39c"
+      "hash": "4eb41280ab94cd19f83b7df6606d715c391dbb32"
     },
     {
       "path": "config/ModernUI/common.toml",
@@ -478,12 +478,20 @@
       "hash": "1cb67cb19cbbc8ca6ebba1796e38a8d57d65e25a"
     },
     {
+      "path": "config/moreleads.cfg",
+      "hash": "0e2928b63a32556274debf4876700003b09b0e4a"
+    },
+    {
+      "path": "config/morevillagers.json",
+      "hash": "1be0e43d4fb2d394276969fe58e39850470f76cf"
+    },
+    {
       "path": "config/MouseTweaks.cfg",
       "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
     },
     {
-      "path": "config/netherite_ext/config.json",
-      "hash": "b879d81e30b748e7d6dd0a0a461605394fa0e9db"
+      "path": "config/naturescompass.json",
+      "hash": "69e7de65f19a3b5f2678c1a53aba39738e5a0009"
     },
     {
       "path": "config/notenoughanimations.json",
@@ -498,6 +506,10 @@
       "hash": "609ec8b9b50afe24b1187cac2d0990773f73a227"
     },
     {
+      "path": "config/perception.yaml",
+      "hash": "6380c31d88e765d9a1ca93cf4e196287f9e515b7"
+    },
+    {
       "path": "config/pickupnotifier/pickupnotifier-client.toml",
       "hash": "234874bf7e80debbf4f64db44b96baa95673a98f"
     },
@@ -506,44 +518,32 @@
       "hash": "a234eb9ca366f7cd4fdf961003fab9f8d6c20316"
     },
     {
-      "path": "config/puzzle.json",
-      "hash": "fb17b271a4e7c91357d00a59a0b87eb5e3b6d139"
+      "path": "config/regions_unexplored/regions_unexplored-common.toml",
+      "hash": "6751393baaf0d692e3e2e1f1d99108d637facc9a"
     },
     {
-      "path": "config/replaymod-rendersettings.json",
-      "hash": "f1be463e787bb6740f26f01662c8489c25e9275d"
+      "path": "config/regions_unexplored/regions_unexplored-primary-region.toml",
+      "hash": "9b5c8a10a4bc91757f98ff0733a1c5c556fb0763"
+    },
+    {
+      "path": "config/regions_unexplored/regions_unexplored-secondary-region.toml",
+      "hash": "bbd47ce779a0241217d832ca4e9950a21ee7dcdb"
     },
     {
       "path": "config/replaymod.json",
-      "hash": "70e9f96dc147a9174a120d0fa080579a8f2f1ff3"
+      "hash": "6c8d3085ceb2cfec740b2eac3543c8592182be0a"
     },
     {
-      "path": "config/roughlyenoughitems/collapsible.json5",
-      "hash": "d3ddda466e4e5fb9048711c0424c8970d474fc7c"
+      "path": "config/repurposed_structures.json",
+      "hash": "ea91ce24f5adb02243913975b0cb855cfaf77f7c"
     },
     {
-      "path": "config/roughlyenoughitems/config.json5",
-      "hash": "66ccf2fc2d9aa14bc67fa2fbadd8d45336825c12"
-    },
-    {
-      "path": "config/roughlyenoughitems/favorites.json5",
-      "hash": "413c0d78b009c2e235966e3a9437bd89258724f9"
-    },
-    {
-      "path": "config/roughlyenoughitems/hints.json",
-      "hash": "684599ad3e5fddb203c7872b7eb7f31b784ee55e"
-    },
-    {
-      "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "ac3f72223124258f5060372731ca425fdb622f0d"
-    },
-    {
-      "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "bf5f2c93ed47815e42ef17d240e7d738fb4500b5"
+      "path": "config/scalablelux.properties",
+      "hash": "fc15f8b4bb430a780735cf1051421eb414e01d1e"
     },
     {
       "path": "config/seamless_loading_screen.json",
-      "hash": "3d289411939fce1856023a442588e6dd7d0135c8"
+      "hash": "84925a6c7b0e7d8f43f9a897dff1de541a2b19d7"
     },
     {
       "path": "config/seasonhud-client.toml",
@@ -555,7 +555,7 @@
     },
     {
       "path": "config/sereneseasons/seasons.toml",
-      "hash": "7f5574a559ec41410f29ee95d5884dcc064dd0e7"
+      "hash": "da537638e167341829bb5f0327453c55c6db767a"
     },
     {
       "path": "config/sketch.animation.json",
@@ -563,7 +563,7 @@
     },
     {
       "path": "config/skinlayers.json",
-      "hash": "734feeda8583394bbc92acb6c17281857668a284"
+      "hash": "c953879db67f2f3cbd33d0e55db1782e367614be"
     },
     {
       "path": "config/smoothscroll.json",
@@ -575,7 +575,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "7361d4c87af2c37743977871a895a6e2cb7e071e"
+      "hash": "f3fe34a46bd1e12b03c1c2af89e4bd8ff6761e26"
     },
     {
       "path": "config/sodium-extra.properties",
@@ -583,7 +583,7 @@
     },
     {
       "path": "config/sodium-fingerprint.json",
-      "hash": "ab278899ecff6bcd184d1f92bb1aeca9376c6e4c"
+      "hash": "18097b0d75f60be81e500ac8b781c83c70d82d0a"
     },
     {
       "path": "config/sodium-mixins.properties",
@@ -614,6 +614,26 @@
       "hash": "a63da50166561c948dc39484f0d88990cdbe29a0"
     },
     {
+      "path": "config/subtle_effects/biomes.toml",
+      "hash": "bddd35848c796154e66fd3051d0adae7da92d1fe"
+    },
+    {
+      "path": "config/subtle_effects/blocks.toml",
+      "hash": "79d7800a8fbaef0e979502b6e101604f40c0fdd3"
+    },
+    {
+      "path": "config/subtle_effects/entities.toml",
+      "hash": "f54b09519b27f122190520ccd8eed9ea7915fd00"
+    },
+    {
+      "path": "config/subtle_effects/general.toml",
+      "hash": "3bae54428acf962f2cc371c8ab0756f4460f69aa"
+    },
+    {
+      "path": "config/subtle_effects/items.toml",
+      "hash": "b0779da05bae5c56bee54c33ed869df43fc1b59f"
+    },
+    {
       "path": "config/terrablender.toml",
       "hash": "194a663d21fe1df84f7230013c470329088fa710"
     },
@@ -627,7 +647,7 @@
     },
     {
       "path": "config/tiptapshow.toml",
-      "hash": "5dfa6c452194c03b7437e69da3d2dfdcd4201952"
+      "hash": "852d985f3ebd16f9be1d5a77f0de1d3fb3c1fe24"
     },
     {
       "path": "config/toughasnails/client.toml",
@@ -642,12 +662,20 @@
       "hash": "420855eb99821465dcd85188a9b38994bb3667ef"
     },
     {
+      "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "hash": "34b05f19f68a898db91c6a9c1b905df04d968211"
+    },
+    {
+      "path": "config/towns_and_towers/structure_rarity_new.json5",
+      "hash": "42f627d2d9f6edee794375d73742b1eebc987498"
+    },
+    {
       "path": "config/travelerstitles-fabric-1_21.toml",
       "hash": "6d6a049add7bc90c48443050507fcf3c1ba63027"
     },
     {
       "path": "config/tweakermore.json",
-      "hash": "c523dcb18790943d1903e88ba4dc7b0afa0ab192"
+      "hash": "2d9545d9a51a3ed3ab950fbd798d86fc8dee09b0"
     },
     {
       "path": "config/tweakeroo.json",
@@ -656,6 +684,14 @@
     {
       "path": "config/vcinteraction/vcinteraction.properties",
       "hash": "8b9f809e175d36c4db98afd380f4898bbfbf7763"
+    },
+    {
+      "path": "config/villagespawnpoint.json5",
+      "hash": "7d8497c9e56435a36b6f093457b54479113f10bd"
+    },
+    {
+      "path": "config/vintage_animations.json5",
+      "hash": "8c54b2b8967b1b989741b8a408709699edd9f65b"
     },
     {
       "path": "config/voicechat/translations.properties",
@@ -667,7 +703,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "2b54db46f46eb5da0731cb09e54fb18045a71e36"
+      "hash": "0e3d5723e5a1bc6d53f0fa67e882e8cc0e8ca9a2"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -678,8 +714,8 @@
       "hash": "4eaca99c316dc0e047aa47897d73689054c1474d"
     },
     {
-      "path": "config/watut-client-1.toml.bak",
-      "hash": "a548ff860a1bec8ddd49421c34f0b89c02e63742"
+      "path": "config/wakes.json",
+      "hash": "9cbc35301303ee11f11c929eb219e6574d7cc7ed"
     },
     {
       "path": "config/watut-client.toml",
@@ -695,11 +731,11 @@
     },
     {
       "path": "config/watut-server.toml",
-      "hash": "4bd40ac86d55cbf055d0075ccbe7388171723ae3"
+      "hash": "a5ee27adf6b9c0a6cf506bfe432dcf9d99341221"
     },
     {
       "path": "config/waystones-common.toml",
-      "hash": "a26cc1af9e4aa46c8800f425be191fbc720b6b55"
+      "hash": "e55760bc002eca0790ce10ca9228caea0a470aef"
     },
     {
       "path": "config/xaerominimap-common.txt",
@@ -707,11 +743,11 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "75081f4a26cf7f1f6dd9c9f97326633571455eb4"
+      "hash": "229d30a1738a7762e98048ca5a8128883c463035"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "21fd62895118ce2198968bc8feb3ba9e2031f206"
+      "hash": "acf65351d79fa0764141fcd9d895c0006892fd5c"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -719,7 +755,7 @@
     },
     {
       "path": "config/xaeroplus.txt",
-      "hash": "8fb5e101e921a383ac7091c8439627b39b424ea1"
+      "hash": "678e7c624e06b5d1f198036d56e12b899969804f"
     },
     {
       "path": "config/xaeroworldmap-common.txt",
@@ -734,8 +770,12 @@
       "hash": "ef6eac77bc8ec50971872b820002db7227ece802"
     },
     {
-      "path": "hmclversion.cfg",
-      "hash": "f1a69125f91b1d08689afa01a9c14de3c8b7c250"
+      "path": "mods/advancedcompass.fabric.1.21.1-1.2.18.jar",
+      "hash": "a1885bd788d475789550dea4cda65abf3dc45278"
+    },
+    {
+      "path": "mods/advancements_reloaded-0.6.1-fabric-1.21.1.jar",
+      "hash": "d710a08149966fab164dbb630d2e6a8d68de2bb4"
     },
     {
       "path": "mods/animated-doors-1.21.jar",
@@ -750,8 +790,12 @@
       "hash": "f826ac4f448f4c52758230c7ef1f6fa58ea4cafe"
     },
     {
-      "path": "mods/bettercombat-fabric-2.2.0+1.21.1.jar",
-      "hash": "65b6156a4239a6e72320ad68d408c6383de0024d"
+      "path": "mods/balm-fabric-1.21.1-21.0.44.jar",
+      "hash": "94c4be5da49c7b521f7b7f7316cb7a7ed32b662f"
+    },
+    {
+      "path": "mods/bettercombat-fabric-2.2.2+1.21.1.jar",
+      "hash": "067bf444c68a025510c5a3be0561bdbb57b0bb2d"
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
@@ -763,7 +807,7 @@
     },
     {
       "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.9.jar",
-      "hash": "e7a4fa36c7af398efcffeed6f1fdc22915a2fea7"
+      "hash": "109a9d874f09bbbce4534092edd081effb20b713"
     },
     {
       "path": "mods/bookshelf-fabric-1.21.1-21.1.62.jar",
@@ -778,8 +822,16 @@
       "hash": "6e87d9477ffdea201edf6f386af9631431df1364"
     },
     {
+      "path": "mods/collective-1.21.1-8.3.jar",
+      "hash": "ac856f7552dae7fa65e9616e2e33f89cd7cbbab6"
+    },
+    {
       "path": "mods/coroutil-fabric-1.21.1-1.3.8.jar",
       "hash": "1bb71c0df6959b06915d6d62b8040aa0892f08ae"
+    },
+    {
+      "path": "mods/cristellib-fabric-1.2.8.jar",
+      "hash": "5a04315811f043a66c11eb64ec185a71995cd3c5"
     },
     {
       "path": "mods/CustomSkinLoader_Fabric-14.23.jar",
@@ -810,6 +862,10 @@
       "hash": "bffadbe66ca57be50bc9afb2de9be1e88a67944e"
     },
     {
+      "path": "mods/eg_particle_interactions-0.4.1-fabric-mc1.21.1.jar",
+      "hash": "4d92d08a72697a5db12c658d73757ba8f8a2d89d"
+    },
+    {
       "path": "mods/emotecraft-for-MC1.21.1-2.4.10-fabric.jar",
       "hash": "37823d3785025f8f9f276b575e6feb4b150cd830"
     },
@@ -822,24 +878,60 @@
       "hash": "b6532d1486a492dea20a1e093e2bc7832591e7c4"
     },
     {
+      "path": "mods/ExplorersCompass-1.21.1-2.2.5-fabric.jar",
+      "hash": "fa79e6d963b81af22931f14a106f584c3f9e16be"
+    },
+    {
       "path": "mods/fabric-api-0.116.0+1.21.1.jar",
       "hash": "1e2d0ab58ff89b6730d7c251a7e1f1d952e18743"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+      "hash": "848dd463bc9d75de4c519dff30cfc0666ead10d6"
+    },
+    {
+      "path": "mods/FabricShieldLib-1.7.2-1.21.1.jar",
+      "hash": "c4496c4a705f10f95b1ed603f792f5cd7e71f1dd"
+    },
+    {
+      "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar",
+      "hash": "48ee764932d0c8ec81a2223dbe333886938e512c"
     },
     {
       "path": "mods/firstperson-fabric-2.4.9-mc1.21.jar",
       "hash": "1c1e166663b3547ec587cc6736ad1bad9bb2a8a5"
     },
     {
+      "path": "mods/fzzy_config-0.6.9+1.21.jar",
+      "hash": "cadfd7fbf5c7aa8e084f78157f968d217fc511d3"
+    },
+    {
+      "path": "mods/Geophilic v3.4.1 f15-71.mod.jar",
+      "hash": "306010df473a8ae16c9b13fb4fc5d6326f2a8339"
+    },
+    {
       "path": "mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar",
       "hash": "46e6a284ca15f1f90114048b3e5bb64d831f8d72"
+    },
+    {
+      "path": "mods/guarding-1.21.1-2.7.4.jar",
+      "hash": "6b75b936dec50b5ddbd9b7a0e28ccf2af2b147b5"
+    },
+    {
+      "path": "mods/guardvillagers-2.1.2-1.21.jar",
+      "hash": "4e76a0b6743933c21042b882ed3423e7271b0ca4"
+    },
+    {
+      "path": "mods/happy_ghast_legacy-1.5-1.21.1-fabric.jar",
+      "hash": "f016aa24ddce1ab305e4a6bfcfdd08593c350115"
     },
     {
       "path": "mods/Iceberg-1.21.1-fabric-1.3.2.jar",
       "hash": "170e30bf93ccba6d80dd481eedddae16cb549d29"
     },
     {
-      "path": "mods/IMBlocker-5.2.0-fabric-1.17+.jar",
-      "hash": "200159f4888ffe4464305e8ee24c7c45b38b3484"
+      "path": "mods/IMBlocker-5.2.1-fabric-1.17+.jar",
+      "hash": "fe03d88152b5b13768798e115deea40afda3c622"
     },
     {
       "path": "mods/InventoryProfilesNext-fabric-1.21-2.1.8.jar",
@@ -874,16 +966,44 @@
       "hash": "9ef87d6fa2ad2cf4e702ece7a7726cb8b9313dd8"
     },
     {
+      "path": "mods/lmft-1.0.4+1.21-fabric.jar",
+      "hash": "4921f8875f3b42c94a485f73836b524ed67ee0a3"
+    },
+    {
       "path": "mods/malilib-fabric-1.21-0.21.8.jar",
       "hash": "39f09ab67d0051f8920978680fcb9d97dbd7334c"
+    },
+    {
+      "path": "mods/midnightlib-1.6.9-fabric+1.21.jar",
+      "hash": "16ebb706ffa9b9e3d5980f523bb3e16c95ecd429"
     },
     {
       "path": "mods/moonlight-1.21-2.18.13-fabric.jar",
       "hash": "fa8bcb680a9d09701b34f2b158f38f3c00832b2c"
     },
     {
+      "path": "mods/MoreLeads-fabric-1.21-1.2.0.jar",
+      "hash": "42d4dd49909f0a80f87c564db3dd9e7eab2c08d1"
+    },
+    {
+      "path": "mods/morevillagers-re-1.21.x-fabric-5.1.1.jar",
+      "hash": "a80a5b9ab78471dc3dfabb0cb5e683c24b0dbbd7"
+    },
+    {
+      "path": "mods/NaturesCompass-1.21.1-2.2.7-fabric.jar",
+      "hash": "c705431dd94ae496fb527a4c36855c86fd8ef987"
+    },
+    {
       "path": "mods/notenoughanimations-fabric-1.9.3-mc1.21.jar",
       "hash": "13aaea8a944e1f8df37951933e5b52df9a46d274"
+    },
+    {
+      "path": "mods/OctoLib-FABRIC-0.5.0.1.jar",
+      "hash": "16174341e3b3733316608161ac86f6b2ea43ac49"
+    },
+    {
+      "path": "mods/OpenSauceToastKiller.jar",
+      "hash": "79bacc90ca7a1172676774f9f3cfe52e46fc63b1"
     },
     {
       "path": "mods/owo-lib-0.12.15.4+1.21.jar",
@@ -892,6 +1012,10 @@
     {
       "path": "mods/particular-1.1.2+1.21.jar",
       "hash": "aa59b31359c2211f4a2d401235c4926084d4f97e"
+    },
+    {
+      "path": "mods/Perception-FABRIC-0.1.4+1.21.1.jar",
+      "hash": "78cd8869211985aa0916cf68119eda27f9de7bea"
     },
     {
       "path": "mods/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar",
@@ -908,6 +1032,18 @@
     {
       "path": "mods/PuzzlesLib-v21.1.36-1.21.1-Fabric.jar",
       "hash": "f78facafb67b3065ef07f27156c007e9de768dbc"
+    },
+    {
+      "path": "mods/regions_unexplored-fabric-1.21.1-0.5.6.1.jar",
+      "hash": "6994e451bb2769d1c299566454b11f60fc11de3f"
+    },
+    {
+      "path": "mods/repurposed_structures-7.5.13+1.21.1-fabric.jar",
+      "hash": "e46bb7bb891250a8c1437669c459cf70d7ee9807"
+    },
+    {
+      "path": "mods/ScalableLux-0.1.0+fabric.26c6e72-all.jar",
+      "hash": "6e8cf20d0b334a06f30add25cf7f0dbd2cad97fa"
     },
     {
       "path": "mods/seasonhud-fabric-1.21.1-1.13.3.jar",
@@ -934,12 +1070,20 @@
       "hash": "792d25eab5876b3cd0d3b2b3e7b93d3d3a65836a"
     },
     {
+      "path": "mods/SubtleEffects-fabric-1.21.1-1.9.4-hotfix.1.jar",
+      "hash": "5c4820b9361c14dc325a7595d89d840dc9f5c0ae"
+    },
+    {
       "path": "mods/tcdcommons-3.12.7+fabric-1.21.jar",
       "hash": "e69155938134ad13b9d37706865f01babc7a0861"
     },
     {
       "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
       "hash": "4a969dae334681103d3a0977b9448be0c7f4fe07"
+    },
+    {
+      "path": "mods/tooltrims-1.1.1+mc1.21.1.jar",
+      "hash": "73c02e96b3feca8c2b739bba8c1d800cc441fef1"
     },
     {
       "path": "mods/totw_modded-fabric-1.21-1.0.7.jar",
@@ -954,12 +1098,32 @@
       "hash": "784da2daf05b631ff87a9cdf8d699c3ce1abf746"
     },
     {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.2.jar",
+      "hash": "7e7d4e24a2d0ad3d85de430d2b15ff3e525322cf"
+    },
+    {
+      "path": "mods/villagespawnpoint-1.21.1-4.6.jar",
+      "hash": "a4139b691cae6311c2888c08948b0866845d1297"
+    },
+    {
+      "path": "mods/vintage_animations-fabric-1.4.0.jar",
+      "hash": "87e6834dfbd50433147737dd2d8318671382c6f4"
+    },
+    {
+      "path": "mods/wakes-0.2.2-1.21.jar",
+      "hash": "e420013b75b83b5e573ebc5be090c569693097f8"
+    },
+    {
       "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
       "hash": "31d06c335b9a3a9fd649e8f4518aaf5a65630f57"
     },
     {
-      "path": "mods/waystones-fabric-1.21.1-21.1.17.jar",
-      "hash": "29c1bafdd263689eb7e4b6bbf910379c2fca6d5f"
+      "path": "mods/waystones-fabric-1.21.1-21.1.18.jar",
+      "hash": "4d34e3e7b92e8d1086699dc25a14542c3812fc48"
+    },
+    {
+      "path": "mods/wwoo-2.3.4.jar",
+      "hash": "1e26a8ea18cf133fffd900dce5c3393ee2f81e6c"
     },
     {
       "path": "mods/XaeroPlus-2.26.10+fabric-1.21.1-WM1.39.4-MM25.2.6.jar",
@@ -1018,10 +1182,6 @@
       "hash": "60c831f5f137e5591dd56d81f21f500339f69d2a"
     },
     {
-      "path": "mods/[优化][渲染]ImmediatelyFast-Fabric-1.6.5+1.21.1.jar",
-      "hash": "f6461831d895d84d6cae8bcc1c970d350e3baa67"
-    },
-    {
       "path": "mods/[优化][钠]reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
       "hash": "c72f07a8f139f0420cbce29bd9eb29fb24db427f"
     },
@@ -1042,10 +1202,6 @@
       "hash": "e71346a43c563e5784580dd096338acfb45f49d4"
     },
     {
-      "path": "mods/[前置]balm-fabric-1.21.1-21.0.42.jar",
-      "hash": "adb5e2062dea905e917121e222053b9d47434e59"
-    },
-    {
       "path": "mods/[前置]citresewn-1.2.2+1.21.jar",
       "hash": "5569769f66eda6d51ca3ae56d58d5a4657f19ef9"
     },
@@ -1054,28 +1210,16 @@
       "hash": "5d82342a2df53fd6df712bfdd583a811572918a4"
     },
     {
-      "path": "mods/[前置]Configurable-2.2.3-fabric-yarn+1.21.1.jar",
-      "hash": "cb462cff69da26f3809688848711d9ea4621cdc0"
-    },
-    {
       "path": "mods/[前置]entity_model_features_fabric_1.21.1-2.4.1.jar",
-      "hash": "3e36fb8c0baec24e8ef472269aef1a21fb2c0599"
+      "hash": "306b1deb653fe8f9ba4d68795084a79dcc37fdcb"
     },
     {
       "path": "mods/[前置]entity_texture_features_fabric_1.21.1-6.2.9.jar",
-      "hash": "3e77439154fada468475b08a268de7012c8d90f3"
-    },
-    {
-      "path": "mods/[前置]fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
-      "hash": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1"
+      "hash": "eee31dca3f7ce76c8e56ba0c7213d8da84cff43e"
     },
     {
       "path": "mods/[前置]ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar",
       "hash": "e26f1b5dcdb1b05abe9c223bcf47057622afd432"
-    },
-    {
-      "path": "mods/[前置]iChunUtil-1.21-Fabric-1.0.3.jar",
-      "hash": "a47cac07d5606482b93d94b8a484ddeb24fbc669"
     },
     {
       "path": "mods/[前置]Kiwi-1.21-Fabric-15.1.5.jar",
@@ -1194,10 +1338,6 @@
       "hash": "83ce9cb551cfb03569a39a94cbed8686b2e6abc0"
     },
     {
-      "path": "mods/[美化][提示]Ding-1.21-Fabric-1.5.0.jar",
-      "hash": "8c9a19f47331f29edd9010b8b0d87d8a44e11b01"
-    },
-    {
       "path": "mods/[美化][提示]tipsmod-fabric-1.21.1-21.1.2.jar",
       "hash": "17f618cf3e031bded407e31e5612e50ca4e5eff4"
     },
@@ -1212,10 +1352,6 @@
     {
       "path": "mods/[美化][物品]ItemBorders-1.21-fabric-1.2.5.jar",
       "hash": "be585baafcfe1f6b972b8a819f66177d3b1b985b"
-    },
-    {
-      "path": "mods/[美化][物品]lootbeams-3.6.1-mc1.21-.1.jar",
-      "hash": "8f30e6a13e19e5f2ce21a71fc7eaf1f728c8781d"
     },
     {
       "path": "mods/[美化][物品动态]smoothswapping-0.9.3-1.21-fabric.jar",
@@ -1238,10 +1374,6 @@
       "hash": "e3a5a514bbcc18e2c4e3bc251eb9f48e64217405"
     },
     {
-      "path": "mods/[美化][进度]BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
-      "hash": "f6c6193c8711340e52645b65dbb7ffde7fbf6f30"
-    },
-    {
       "path": "mods/[美化][鼠标手势]MouseTweaks-fabric-mc1.21-2.26.jar",
       "hash": "ee81af33a5606ef2cd057e075833d7c69836c210"
     },
@@ -1254,11 +1386,11 @@
       "hash": "6403f8243ea983a225b3bcda6c821a0029ad9ee2"
     },
     {
-      "path": "natives-windows-x86_64/jna7691793175724517326.dll",
+      "path": "natives-windows-x86_64/jna7920406931286838406.dll",
       "hash": "94d2191378cac5719daecc826fc116816284c406"
     },
     {
-      "path": "natives-windows-x86_64/jna7691793175724517326.dll.x",
+      "path": "natives-windows-x86_64/jna7920406931286838406.dll.x",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
@@ -1279,7 +1411,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "2aa7376f16551069d3eba6e42d60bce72ca68ffc"
+      "hash": "52c5af0301356a5a128eecf4d89aa5fccccf71e4"
     },
     {
       "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
@@ -1292,6 +1424,10 @@
     {
       "path": "resourcepacks/Angel\u0027s_Weather_Normal.zip",
       "hash": "6a48bd0f16e2a97e4460b4cbaf18840e650b011e"
+    },
+    {
+      "path": "resourcepacks/animated-items-1_21-1 - 1_4_2.zip",
+      "hash": "882210d12f30ec1be718d1dafdaf7a467501e695"
     },
     {
       "path": "resourcepacks/AnimatedDoors-RPv1.2.zip",
@@ -1314,10 +1450,6 @@
       "hash": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2"
     },
     {
-      "path": "resourcepacks/FreshPlayerAnimations_v0.4.zip",
-      "hash": "3a403cc6fe8615911be58e12954be7fb9547b203"
-    },
-    {
       "path": "resourcepacks/LowOnFire 1.21.3.zip",
       "hash": "3426c1294546feae83b09b276aeab2e7ca201484"
     },
@@ -1327,7 +1459,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip",
-      "hash": "8fceff153ba84659c1740e3ae5cbb9e2a84f8eee"
+      "hash": "835976c5a31cff689597e55d79ece62885f630cc"
     },
     {
       "path": "resourcepacks/Simple Grass Flowers v1.9.5.zip",
@@ -1342,12 +1474,12 @@
       "hash": "9c5eadd6b6ef57a0751870bf91818913a0a73885"
     },
     {
-      "path": "shaderpacks/BSL_v8.4.02.2.zip",
-      "hash": "9520800a655b9665c9fb9d93535a78a990e0d57c"
+      "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+      "hash": "6dee3931428feb22e993b123c1a0aefad7f8b12b"
     },
     {
-      "path": "shaderpacks/BSL_v8.4.02.2.zip.txt",
-      "hash": "b724616be401b06fb9742d8f58ebf2ea7d36ee57"
+      "path": "shaderpacks/BSL_v8.4.02.2.zip",
+      "hash": "9520800a655b9665c9fb9d93535a78a990e0d57c"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.2/.gitignore",
@@ -3200,10 +3332,6 @@
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.2/supportedMods.md",
       "hash": "e16e5167019e29dc7c27b0ca4e2c6deb7bc78382"
-    },
-    {
-      "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.2.txt",
-      "hash": "acfe1214dc1e8c07cabc9190d42bd89ee15aab64"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip",
@@ -5063,7 +5191,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.2.txt",
-      "hash": "f214e85165d043f7baf34dac7317b9b5d7e91731"
+      "hash": "5cc9933185e8c376fc7e3f219eb3833cb861e6fc"
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
@@ -5074,12 +5202,12 @@
       "hash": "7bfa5cbaf35cb9017c970cb682ab0f5c9c272127"
     },
     {
-      "path": "shaderpacks/iterationT 3.2.0.zip",
-      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37"
+      "path": "shaderpacks/Derivative Main d24.4.14.zip.txt",
+      "hash": "014f0dca07d76c4e7c60403ca93bae7fc7518261"
     },
     {
-      "path": "shaderpacks/iterationT 3.2.0.zip.txt",
-      "hash": "e0e263e62706acae1751b0c92a7c74e48c5f2759"
+      "path": "shaderpacks/iterationT 3.2.0.zip",
+      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37"
     },
     {
       "path": "shaderpacks/Kappa_v5.3.zip",
@@ -5090,12 +5218,12 @@
       "hash": "827c8c31af3b32f86c6be8935cb59f90f73b9bcd"
     },
     {
-      "path": "shaderpacks/rethinking-voxels_r0.1-beta7a.zip",
-      "hash": "d62df3963236dd3ed8fa1b7455daf6d2c23a5c33"
+      "path": "shaderpacks/photon_v1.1.zip.txt",
+      "hash": "50e1bb819d1b72cace4ee6b54bd0a4680785ece9"
     },
     {
-      "path": "shaderpacks/rethinking-voxels_r0.1-beta7a.zip.txt",
-      "hash": "32921694c1e4657fe7030cf20cd3b2c1b07379f5"
+      "path": "shaderpacks/rethinking-voxels_r0.1-beta7a.zip",
+      "hash": "d62df3963236dd3ed8fa1b7455daf6d2c23a5c33"
     },
     {
       "path": "shaderpacks/SEUS PTGI HRR Test 2.1.zip",

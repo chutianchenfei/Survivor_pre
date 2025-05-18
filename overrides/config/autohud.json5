@@ -13,8 +13,8 @@
 	"revealType": "Stacked",
 	"events": {
 		"onScreenOpen": "Nothing",
-		"onMoving": "Reveal",
-		"onStandingStill": "Hide",
+		"onMoving": "Nothing",
+		"onStandingStill": "Nothing",
 		"onPauseScreen": "Nothing",
 		"onSneaking": "Nothing",
 		"onFlying": "Nothing",

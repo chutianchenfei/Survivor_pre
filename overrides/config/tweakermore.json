@@ -102,7 +102,7 @@
     "xmapNoSessionFinalizationWait": false,
     "xmapWaypointFreecamCompact": false,
     "lmCustomSchematicBaseDirectoryEnabledPorting": false,
-    "lmCustomSchematicBaseDirectoryPorting": "E:\\HMCL-3.5.8\\.minecraft\\versions\\1.21.1-Fabric\\schematics",
+    "lmCustomSchematicBaseDirectoryPorting": "E:\\Minecraft\\HMCL\\.minecraft\\versions\\Survivor-test\\schematics",
     "lmPickBlockShulkersPorting": false,
     "mcSpectatorEnterSinkingFixPorting": false,
     "configOriginalNameScale": 0.65,
@@ -966,8 +966,8 @@
         "useAmount": 0
       },
       "pistorderClearDisplay": {
-        "lastUsedTime": 1745166991365,
-        "useAmount": 4
+        "lastUsedTime": 0,
+        "useAmount": 0
       },
       "pistorderDynamicallyInfoUpdate": {
         "lastUsedTime": 0,
