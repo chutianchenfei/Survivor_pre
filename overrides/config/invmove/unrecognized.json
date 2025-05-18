@@ -1,0 +1,8 @@
+{
+  "allowMovement": {
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true
+  },
+  "hideBackground": {}
+}
